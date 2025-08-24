@@ -98,13 +98,14 @@ $$
 | Density adjustment| `k`    | `0.01`          |
 
 
+
 ### RCA-NET Pseudocode
 - [RCA-Net_Pseduo_1.pdf](https://github.com/user-attachments/files/21957890/RCA-Net_Pseduo_1.pdf)
 - [RCA-Net_Pseduo_2.pdf](https://github.com/user-attachments/files/21957891/RCA-Net_Pseduo_2.pdf)
 
 
-## Results
 
+## Results
 ### Review Analysis (Table 2)
 
 | Model      | Topic Sim. | Positive | Negative |
