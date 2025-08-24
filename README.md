@@ -74,9 +74,8 @@ $$
 
 ## Splits
 
-- Default **80/20** split, stratified for class balance  
-- **Twitter:** prefer time-aware split to avoid data leakage  
-- Reproducibility: fix seeds (`42`) across numpy/torch  
+- Default 80/20 train/test split, stratified by class to ensure balance  
+- All experiments were conducted with fixed random seeds (42) across numpy/torch
 
 ---
 
